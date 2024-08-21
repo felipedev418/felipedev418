@@ -211,26 +211,6 @@
 
 </div>
 
-## 💼 Experience
-
-### Senior Blockchain Developer | Blockchain Innovations Ltd.
-
-_February 2018 - January 2024_
-
--   Led development projects focused on Solana blockchain, overseeing the implementation of custom smart contracts and decentralized applications (dApps).
--   Collaborated with cross-functional teams to design and deploy innovative blockchain solutions tailored to client requirements.
--   Conducted security audits and code reviews to ensure the robustness and reliability of smart contracts and blockchain systems.
--   Contributed to the research and development of new blockchain technologies and protocols, staying abreast of industry trends and best practices.
-
-### Lead Bot Developer | TechBot Solutions
-
-_July 2015 - January 2018_
-
--   Designed and developed custom bots for various platforms, including Discord, Telegram, and Twitter, aimed at automating tasks and enhancing user experiences.
--   Implemented natural language processing (NLP) algorithms and machine learning techniques to improve bot functionality and intelligence.
--   Worked closely with clients to understand their needs and translate requirements into scalable bot solutions.
--   Provided ongoing maintenance and support for deployed bots, addressing any issues and implementing feature updates as necessary.
-
 ## 🌟 Contributions
 
 I am passionate about contributing to open-source projects and collaborating with other developers. Here are some ways you can get involved:
